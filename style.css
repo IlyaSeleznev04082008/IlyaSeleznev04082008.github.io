@@ -1,0 +1,123 @@
+
+.nav {
+ display: flex;
+  justify-content: space-evenly;   
+}
+nav{
+background-color:cadetblue; 
+ border-radius: 10px;
+    margin:10px;  
+   /* height: 15%;*/
+}
+.class-theme {
+background-image:url(images/phonick.jpg);
+ color:#174d00 ;
+ font-family: 'Balsamiq Sans', cursive;
+   
+}
+ header{
+    background-color:#bbff99;
+      border-radius: 15px;
+     margin:10px;
+    
+   /* height:35%;*/
+}
+ main{
+   background-color:#bbff99;
+   border-radius: 15px;
+    margin:10px;
+   /* height: 450px;*/
+}
+footer{
+background-color:#bbff99;
+    border-radius: 15px;
+     margin:10px;
+  /*  height: 50px;*/
+}
+a{
+     text-decoration: none;
+    color:#000000;
+    font-weight:bold;
+   
+}
+.header-flex{
+display: flex;
+  justify-content: space-evenly;
+
+}
+.mainer{
+ display: flex;
+  justify-content: space-evenly;  
+}
+.penza {
+   margin:10px; 
+  display: flex;
+ }
+.penza-img {
+    margin:10px;
+  align-self: center;
+}
+footer{
+display: flex;
+  justify-content: space-around;      
+}
+ .theme-button {
+     background-color: cadetblue;
+  font-weight:bolder;
+      text-decoration: none;
+     border: 4px inset forestgreen;
+     
+     font-family: 'Balsamiq Sans', cursive;
+        
+
+}
+section{
+  background-color:#bbff99;
+      border-radius: 15px;
+     margin:10px; 
+   
+}
+     /*Снежная тема*/
+     .snow-theme{
+      color:#00001a;
+         background-image: url(images/%D0%B7%D0%B8%D0%BC%D0%BA%D0%B0.jpg)
+     }
+.snow-theme .header-flex{
+  background-color:lightskyblue;
+     
+}
+.snow-theme main{
+  background-color:lightskyblue;  
+}
+.snow-theme footer{
+  background-color:lightskyblue;  
+}
+.snow-theme nav{
+    background-color: deepskyblue;
+}
+.snow-theme .theme-button{
+  background-color:deepskyblue;  
+}
+
+nav a {
+  border: 4px inset forestgreen;
+/*border-radius: 15px;*/
+   
+    
+}
+nav .theme-button{
+ / border: 4px inset forestgreen;*/
+  
+}
+h1{
+    margin: 10px;
+}
+h2{
+    margin: 10px;
+}
+dl{ margin:5px;}
+dt{ margin:10px;}
+.heart .likes-number {
+  margin-left: 24px;
+  line-height: 14px;
+}
